@@ -1,0 +1,24 @@
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.exe.config
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.exe
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.pdb
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.xml
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas_2_Kalkulator.Form1.resources
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas_2_Kalkulator.Resources.resources
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.vbproj.GenerateResource.Cache
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.exe
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.xml
+C:\Users\X\AppData\Local\Temporary Projects\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.pdb
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.exe.config
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.exe
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.xml
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.pdb
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.exe
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.pdb
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.xml
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas_2_Kalkulator.Form1.resources
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas_2_Kalkulator.Resources.resources
+D:\Semester 3\Pemrograman GUI\VB\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.vbproj.GenerateResource.Cache
+D:\Semester 3\Pemrograman GUI\GitHub\tugas-2015-02-rizahudan\Tugas 2 Kalkulator\Tugas 2 Kalkulator\bin\Debug\Tugas 2 Kalkulator.exe.config
+D:\Semester 3\Pemrograman GUI\GitHub\tugas-2015-02-rizahudan\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.exe
+D:\Semester 3\Pemrograman GUI\GitHub\tugas-2015-02-rizahudan\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.xml
+D:\Semester 3\Pemrograman GUI\GitHub\tugas-2015-02-rizahudan\Tugas 2 Kalkulator\Tugas 2 Kalkulator\obj\Debug\Tugas 2 Kalkulator.pdb
