@@ -109,39 +109,58 @@
     End Sub
 
     Private Sub kurangButton_Click(sender As Object, e As EventArgs) Handles kurangButton.Click
-        If (Me.cekOnce = True) Then
+        If (Me.cekOnce = True Or cek = 2) Then
+            hilangMin()
             If (Me.x = 0 Or Me.cek = 2) Then
                 Me.x += Convert.ToInt32(layarKalkulator.Text)
             Else
                 Me.x -= Convert.ToInt32(layarKalkulator.Text)
             End If
             layarKalkulator.Text = Me.x.ToString
+            jikaMin()
             Me.cek = 1
             Me.cekOnce = False
         End If
     End Sub
 
     Private Sub tambahButton_Click(sender As Object, e As EventArgs) Handles tambahButton.Click
-        If (Me.cekOnce = True) Then
+        If (Me.cekOnce = True Or cek = 1) Then
+            hilangMin()
             If (Me.cek = 1) Then
                 Me.x -= Convert.ToInt32(layarKalkulator.Text)
             Else
                 Me.x += Convert.ToInt32(layarKalkulator.Text)
             End If
             layarKalkulator.Text = Me.x.ToString
+            jikaMin()
             Me.cek = 2
             Me.cekOnce = False
         End If
     End Sub
 
     Private Sub samadenganButton_Click(sender As Object, e As EventArgs) Handles samadenganButton.Click
-        Select Me.cek
+        jikaMin()
+        Select Case Me.cek
             Case 1
+                hilangMin()
                 layarKalkulator.Text = Convert.ToString(Me.x - Convert.ToInt32(layarKalkulator.Text))
+                jikaMin()
             Case 2
+                hilangMin()
                 layarKalkulator.Text = Convert.ToString(Me.x + Convert.ToInt32(layarKalkulator.Text))
+                jikaMin()
         End Select
-        Me.x = 0
-        Me.cekOnce = True
+            Me.x = 0
+            Me.cekOnce = True
+    End Sub
+    Private Sub jikaMin()
+        If (Convert.ToInt32(layarKalkulator.Text) < 0) Then
+            layarKalkulator.Text = (0 - Convert.ToInt32(layarKalkulator.Text)) & "-"
+        End If
+    End Sub
+    Private Sub hilangMin()
+        If (layarKalkulator.Text.Contains("-")) Then
+            layarKalkulator.Text = layarKalkulator.Text.Remove(layarKalkulator.Text.LastIndexOf("-"), 1)
+        End If
     End Sub
 End Class
